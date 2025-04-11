@@ -9,6 +9,9 @@ Professor: Victor Almeida.
 
 Professor: Jose Boaro
 
+
+Este MVP visa disponibilizar uma análise de dados para apoiar as decisões gerencias sobre a performance de uma equipe de suporte espalhada em diversos escritórios em países diferentes. Essas equipes tratam Tickets de Incidentes com Prioridades (Low, Moderate, High e Critical ). Para cada tipo de Prioridade existe um SLA ( Service Level Agreement), que limita o tempo máximo para a resolução de cada ticket de Incidente criado.
+
 <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/1404765122016821/1506217728357347/latest.html">Databricks Notebook</a></p>
         
 <a href="Fabio Martins - MVP - Eng Dados - 2025-04-10 V2.4.ipynb">IPython Notebook</a>
