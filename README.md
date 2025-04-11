@@ -10,7 +10,7 @@ Professor: Victor Almeida.
 Professor: Jose Boaro
 
 
-Este estudo tem por objetivo  disponibilizar uma análise de dados para apoiar as decisões nas futuras renovações de  contratos e na readequação de equipes de Suporte baseado em SLAs.
+Este estudo tem por objetivo disponibilizar uma análise de dados para apoiar decisões de empresas de Suporte em futuras renovações de contratos que sejam baseados em SLA e nas possíveis readequação de suas equipes.
 
 <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/1404765122016821/1506217728357347/latest.html">Databricks Notebook</a></p>
         
