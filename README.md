@@ -14,11 +14,11 @@ Este MVP tem por objetivo promover a análise de dados de uma empresa que presta
 
 Esta análise visa apoiar decisões da empresa em futuras renovações de contratos que sejam baseados em SLA( Service Level Agreement), e nas possíveis readequações de suas equipes.
 
-<a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/1404765122016821/1506217728357347/latest.html">Databricks Notebook</a></p>
+<a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/2644236672359905/1506217728357347/latest.html">Databricks Notebook</a></p>
         
-<a href="Fabio Martins - MVP - Eng Dados - 2025-04-10 V2.4.ipynb">IPython Notebook</a>
+<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.1.ipynb">IPython Notebook</a>
 
 
 
-<a href="Fabio Martins - MVP - Eng Dados - 2025-04-10 V2.4.ipynb"> <img src="img/Tabela_de_Conteudos.png"> </a>
+<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.1.ipynb"> <img src="img/Tabela_de_Conteudos.png"> </a>
 
