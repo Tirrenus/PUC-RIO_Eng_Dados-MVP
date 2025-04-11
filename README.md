@@ -10,9 +10,7 @@ Professor: Victor Almeida.
 Professor: Jose Boaro
 
 
-Este MVP tem por objetivo  disponibilizar uma análise de dados para apoiar as decisões gerenciais de uma empresa que presta serviço de Suporte. Este estudo foca na análise da performance de equipes de suporte espalhadas em diversos escritórios de diferentes países. Essas equipes tratam Tickets de Incidentes com Prioridades (Low, Moderate, High e Critical ). Para cada tipo de Prioridade existe um SLA ( Service Level Agreement), que limita o tempo máximo para a resolução de cada ticket de Incidente criado.
-
-Este estudo ajudará nas futuras renovações de  contratos e na readequação das equipes.
+Este estudo tem por objetivo  disponibilizar uma análise de dados para apoiar as decisões nas futuras renovações de  contratos e na readequação de equipes de Suporte baseado em SLAs.
 
 <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/1404765122016821/1506217728357347/latest.html">Databricks Notebook</a></p>
         
