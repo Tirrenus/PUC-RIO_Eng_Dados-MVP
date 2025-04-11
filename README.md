@@ -16,9 +16,9 @@ Esta análise visa apoiar decisões da empresa em futuras renovações de contra
 
 <a href="https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1040150379560922/2644236672359905/1506217728357347/latest.html">Databricks Notebook</a></p>
         
-<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.2.ipynb">IPython Notebook</a>
+<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.02.ipynb">IPython Notebook</a>
 
 
 
-<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.2.ipynb"> <img src="img/Tabela_de_Conteudos.png"> </a>
+<a href="Fabio Martins - MVP - Eng Dados - 2025-04-11 V3.02.ipynb"> <img src="img/Tabela_de_Conteudos.png"> </a>
 
