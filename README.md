@@ -10,7 +10,7 @@ Professor: Victor Almeida.
 Professor: Jose Boaro
 
 
-Este MVP tem por objetivo  disponibilizar uma análise de dados para apoiar as decisões gerenciais fr uma empresa que presta serviço de Suporte. Este estudo foca na análise da  performance de equipee de suporte espalhadas em diversos escritórios de diferentes países. Essas equipes tratam Tickets de Incidentes com Prioridades (Low, Moderate, High e Critical ). Para cada tipo de Prioridade existe um SLA ( Service Level Agreement), que limita o tempo máximo para a resolução de cada ticket de Incidente criado.
+Este MVP tem por objetivo  disponibilizar uma análise de dados para apoiar as decisões gerenciais de uma empresa que presta serviço de Suporte. Este estudo foca na análise da performance de equipes de suporte espalhadas em diversos escritórios de diferentes países. Essas equipes tratam Tickets de Incidentes com Prioridades (Low, Moderate, High e Critical ). Para cada tipo de Prioridade existe um SLA ( Service Level Agreement), que limita o tempo máximo para a resolução de cada ticket de Incidente criado.
 
 Este estudo ajudará nas futuras renovações de  contratos e na readequação das equipes.
 
